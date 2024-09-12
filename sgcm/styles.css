@@ -4,8 +4,5 @@
 }
 
 body {
-    background-image: url("https://i.pinimg.com/564x/e8/6f/a7/e86fa7004d4ee5840eca2d79b6c5803c.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-color: rgb(110, 228, 255);
 }
